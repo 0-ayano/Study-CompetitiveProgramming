@@ -1,0 +1,2 @@
+# Study-CompetitiveProgramming
+Pythonで書いた競技プロ用のカンニングシート
